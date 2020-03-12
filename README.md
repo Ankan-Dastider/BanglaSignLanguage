@@ -3,4 +3,6 @@ The dataset contains images of 10 different Bangladeshi sign letters. 40 differe
 
 Please cite if you use this dataset for any research work:
 
+DOI: 10.1109/WIECON-ECE48653.2019.9019931
+
 Sadik, F., Subah, M.R., Dastider, A.G., Moon, S.A., Ahbab, S.S. and Fattah, S.A., 2019, November. Bangla Sign Language Recognition with Skin Segmentation and Binary Masking. In 2019 IEEE International WIE Conference on Electrical and Computer Engineering (WIECON-ECE) (pp. 1-5). IEEE.
